@@ -11,9 +11,9 @@ I create intelligent digital solutions — from chat-bots and workflow automatio
 - 🤖 Building various AI applications, automations, and digital tools  
 
 🚀 **Featured Projects**
-- [GoAcross AI – Travel Assistant App](#)  
-- [InfinitAI Chat-Bot – Website & Landing Page](#)  
-- [AI Prompt Generator – OpenAI API + CSV Automation](#)
+- [GoAcross AI – Travel Assistant App](https://www.behance.net/gallery/235513353/GoAcross-AI-Travel-Assistant-App-UIUX-Design)  
+- [InfinitAI Chat-Bot – Website & Landing Page](https://www.behance.net/gallery/235439421/InfinitAI-Chat-Bot-Website-Design-Landing-Page)  
+- [AI Prompt Generator – OpenAI API + CSV Automation](https://www.nikitavyatkin.com/ai-prompt-generator)
 
 🧰 **Tech Stack**  
 `Python` · `HTML` · `CSS` · `Basic JavaScript` · `Figma` · `Adobe XD` · `Adobe Photoshop` · `Adobe Illustrator` · `OpenAI API` · `LLM Basics` · `n8n` · `WordPress` · `Midjourney` · `MVP Prototyping`
